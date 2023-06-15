@@ -9,4 +9,8 @@ I inserted "alt" attributes to define alternative text description for graphics.
 From this project I learned, how to incorporate the correct semantic elements. How to effeciently create classes in CSS to represent common themes throughtout the webpage and make the code more effecient. 
 
 ## Installation
-The webpage is functional. Go to: 
+The webpage is functional. Go to: https://bcm22.github.io/code-refactor/ 
+The page should look as follows: 
+```md
+![project screenshot] (assets/images/screenshot.png)
+```
