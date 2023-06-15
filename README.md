@@ -12,5 +12,5 @@ From this project I learned, how to incorporate the correct semantic elements. H
 The webpage is functional. Go to: https://bcm22.github.io/code-refactor/ 
 The page should look as follows: 
 ```md
-![project screenshot] (assets/images/screenshot.png)
+![project screenshot] (desktop/bootcamp/homework/homework_1/assets/images/screenshot.png) 
 ```
